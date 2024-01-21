@@ -36,6 +36,5 @@ int main(){
             printf("Error! Please write a valid operator\n");
         }
         printf("\n");
-
     }
 }
